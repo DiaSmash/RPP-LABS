@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="date_text_base">Enter date</string>
+    <string name="time_text">9:00</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_widget_text">Add widget</string>
+</resources>
